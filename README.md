@@ -3,8 +3,14 @@
   <a href="https://github.com/xander-on/telcox#" target="blank">
     <h1>Telcox Project</h1>
   </a>
+  <h4>Desarrollador: Alexander Moreno</h4>
 </p>
 
+## Tecnologias usadas
+- Frontend: React + TypeScript, CSS3, Bootstrap.
+- Backend: Python Django.
+- Base de Datos: MySQL.
+- DevOps: Docker y Docker Compose.
 
 ## Requisitos previos
 Antes de comenzar, asegúrate de tener instalado:
@@ -54,8 +60,7 @@ https://github.com/xander-on/telcox#
 ```
 
 ## Documentacion de la api
-<a href="https://documenter.getpostman.com/view/11619860/2sB3QJMq79
-" target="blank">
+<a href="https://documenter.getpostman.com/view/11619860/2sB3QJMq79" target="blank">
   <h3>Telcox api</h3>
 </a>
 
