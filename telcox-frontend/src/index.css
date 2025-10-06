@@ -1,0 +1,40 @@
+:root {
+  --color-fondo-body: rgb(17,17,17);
+  --color-texto: white;
+  --color-primary: #4e36b4;
+  --color-secondary: #ffef0c;
+}
+
+body{
+  background-color: rgb(17,17,17)!important;
+  color: white!important;
+}
+
+
+.text-primary{
+  color: var(--color-primary)!important;
+}
+
+.text-secondary{
+  color: var(--color-secondary)!important;
+}
+
+
+
+.background{
+  position: fixed;
+  height: 30vh;
+  left: 0;
+  right: 0;
+  bottom: -35vh;
+  background: linear-gradient(45deg,#4e36b4,#4e36b4 50%,#4e36b4);
+  filter: blur(20vh);
+}
+
+
+.selected {
+  border: 2px solid var(--color-primary);
+  border-radius: 10px;
+  background-color: rgba(78,54,180,0.1);
+  padding: '1rem',
+}

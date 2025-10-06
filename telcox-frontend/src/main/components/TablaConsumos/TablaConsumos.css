@@ -1,0 +1,15 @@
+.table-striped > tbody > tr:nth-of-type(odd) {
+  --bs-table-accent-bg: transparent !important;
+  background-color: transparent !important;
+}
+
+
+.table.custom-table {
+  border: 2px solid var(--color-primary);
+  border-radius: 10px;
+  overflow: hidden;
+  color: var(--color-texto);
+
+  --bs-table-bg: transparent !important;
+  --bs-table-color: var(--color-texto);
+}

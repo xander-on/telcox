@@ -1,0 +1,38 @@
+# Entornos virtuales
+venv/
+.env
+*/.env
+
+# Archivos de entorno en cualquier subcarpeta
+**/.env
+
+# Archivos de configuración locales
+*.pyc
+__pycache__/
+*.log
+
+# Archivos y carpetas de dependencias
+node_modules/
+*.lock
+*.sqlite3
+
+# Archivos de compilación
+dist/
+build/
+
+# Archivos de Docker temporales
+*.pid
+*.sock
+
+# Ignorar datos locales de MySQL
+db/mysql_data/
+db_data/
+telcox/db/mysql_data/
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
