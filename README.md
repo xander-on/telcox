@@ -50,6 +50,12 @@ deberias tener una salida como la siguiente
 ```
 si no es asi puedes volver a intentar ejecutar el comando anterior el contenedor de la base de datos suele tardar un poco en levantarse la primera vez
 
+
+6. Una vez que todo este funcionando correctamente puedes acceder ene el navegador
+```
+http://localhost:5173
+```
+
 ## Repositorio del proyecto
 <a href="https://github.com/xander-on/telcox#" target="blank">
   <h3>Github</h3>
